@@ -1,0 +1,10 @@
+<triggers>
+    <trigger>
+        <point>0.360352</point>
+        <name>RED</name>
+    </trigger>
+    <trigger>
+        <point>0.709961</point>
+        <name>GREEN</name>
+    </trigger>
+</triggers>
